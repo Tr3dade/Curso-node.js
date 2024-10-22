@@ -1,0 +1,1 @@
+Este aquivo sera renomeado de arquivo.txt para novoarquivo.txt
